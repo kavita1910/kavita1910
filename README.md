@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kavita Khatavkar
-- 👀 I’m interested in Data Science & Computer Vision
+- 👀 I’m interested in Data Science & Machine Learning 
 - 🌱 I’m currently a BE Electronics & Telecommunication student
 - 📫 To reach me :
 
