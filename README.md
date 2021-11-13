@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kavita Khatavkar
 - 👀 I am a Data Science & Machine Learning enthusiast
-- 🌱 I’m currently a BE Electronics & Telecommunication student
 - 📫 To reach me :
 
           1) email : kavitakhatavkar60@gmail.com
